@@ -1,0 +1,29 @@
+
+/* Body/Horizontal Line Code */
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+
+/* Text Color */
+h1{
+ color: #66BFBF;
+}
+
+h2{
+    color: #0096FF;
+}
+
+h3{
+    color: #0096FF;
+} 
+
+
